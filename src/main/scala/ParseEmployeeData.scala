@@ -1,5 +1,6 @@
 import scala.io.Source
 class ParseEmployeeData {
+  println()
   def loadDataFromCsv(filePath:String) : List[Employee] = {
 
     // read CSV file using Source library

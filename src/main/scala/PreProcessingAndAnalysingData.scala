@@ -74,5 +74,6 @@ class PreProcessingAndAnalysingData {
         }
         println(s"Total number of employee in tier : \n $str")
         println(s"Number of people who is in Banglore and doing Bachelors : ${bangloreBtechemployee(1)._2}")
+        println()
       }
 }

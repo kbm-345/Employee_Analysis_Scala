@@ -1,4 +1,5 @@
 // Case class which build object in effective manner
+println()
 case class Employee(
    educationLevel: String,
    joiningYear: Int,

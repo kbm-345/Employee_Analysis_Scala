@@ -7,5 +7,6 @@ object Main {
     val employeeAnalysis = new PreProcessingAndAnalysingData
     employeeAnalysis.preProcessingData(AllEmployeeDetails)
     employeeAnalysis.analysingData(AllEmployeeDetails)
+    println()
   }
 }
